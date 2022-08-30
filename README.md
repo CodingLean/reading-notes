@@ -13,6 +13,10 @@ How do you stay in the Growth Mindset?
 >- Take deep breaths
 
 
+## NOTES
+>- You can use multiple "#" to size your headings and fonts and also there are more ways that you can change font sizes.
+>- Markdown paragraphs only need a blank line to space. best practice is not to use any tabs or spaces.
+>-You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
 
 
 
