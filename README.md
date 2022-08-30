@@ -1,4 +1,4 @@
-## My CodeFellows Notes
+### My CodeFellows Notes
 This contains my notes for all my reading assignments
 
 Hi, My name is Isaiah, & I like to code until my hands develope Arthritis!
@@ -22,7 +22,7 @@ How do you stay in the Growth Mindset?
 
 
 
-<sup>My website</sup> [GitHub Pages](https://pages.github.com/)
+<sup>My website</sup> [GitHub Pages](https://codinglean.github.io/reading-notes/)
 
 
 
