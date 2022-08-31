@@ -22,7 +22,7 @@ How do you stay in the Growth Mindset?
 
 
 
-<sup>My website</sup> [GitHub Pages](https://codinglean.github.io/reading-notes/)
+<sup>My website</sup> [GitHub](https://codinglean.github.io/reading-notes/)
 
 
 
