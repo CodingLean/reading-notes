@@ -15,6 +15,15 @@ How do you stay in the Growth Mindset?
 
 ## Table of Contents
 - [Class1 reading notes](class1.md)
+- [Class2 Reading Notes](class2.md)
+- [Class3 reading notes](class3.md)
+- [Class4 Reading Notes](class4.md)
+- [Class5 Reading Notes](class5.md)
+- [Class6 Reading Notes](class6.md)
+- [Class7 reading notes](class7.md)
+- [Class8 Reading Notes](class8.md)
+
+
 
 >- You can use multiple "#" to size your headings and fonts and also there are more ways that you can change font sizes.
 >- Markdown paragraphs only need a blank line to space. best practice is not to use any tabs or spaces.
