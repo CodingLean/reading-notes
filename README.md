@@ -22,6 +22,8 @@ How do you stay in the Growth Mindset?
 - [Class6 Reading Notes](class6.md)
 - [Class7 reading notes](class7.md)
 - [Class8 Reading Notes](class8.md)
+- [Class9 Reading Notes](class9.md)
+
 
 
 
