@@ -22,7 +22,8 @@ How do you stay in the Growth Mindset?
 - [Class6 Reading Notes](class6.md)
 - [Class7 reading notes](class7.md)
 - [Class8 Reading Notes](class8.md)
-- [Class9 Reading Notes](class9.md)
+- [Class10 Reading Notes](class10.md)
+- [Class11 Reading Notes](class11.md)
 
 
 
@@ -33,16 +34,23 @@ How do you stay in the Growth Mindset?
 
 
 
-# NOTES
-## What is a text editor?
-A text editor is a piece of software that you download and install on
-your computer, or you access online through your web browser, that
-allows you to write and manage text, especially the text that you write
-to build a web site. The text editor has to be one of the most
-important tools you can use as an aspiring web developer.
-
-
-
+# Code Fellows 201 Reading Note
+- [201Class1 reading notes](class1.md)
+- [201Class2 Reading Notes](class2.md)
+- [201Class3 reading notes](class3.md)
+- [201Class4 Reading Notes](class4.md)
+- [201Class5 Reading Notes](class5.md)
+- [201Class6 Reading Notes](class6.md)
+- [201Class7 reading notes](class7.md)
+- [201Class8 Reading Notes](class8.md)
+- [201Class9 Reading Notes](class9.md)
+- [201Class1 reading notes](class10.md)
+- [201Class1 reading notes](class11.md)
+- [201Class2 Reading Notes](class12.md)
+- [201Class3 reading notes](class13.md)
+- [201Class4 Reading Notes](class14.md)
+- [201Class5 Reading Notes](class15.md)
+- [201Class5 Reading Notes](class15.md)
 
 
 <sup>My website</sup> [GitHub](https://codinglean.github.io/reading-notes/)
