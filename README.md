@@ -24,8 +24,8 @@ How do you stay in the Growth Mindset?
 - [Class8 Reading Notes](class8.md)
 - [Class10 Reading Notes](class10.md)
 - [Class11 Reading Notes](class11.md)
-
-
+- [Class12 Reading Notes](class12.md)
+- [Class13 Reading Notes](class13.md)
 
 
 >- You can use multiple "#" to size your headings and fonts and also there are more ways that you can change font sizes.
