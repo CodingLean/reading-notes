@@ -52,7 +52,7 @@ How do you stay in the Growth Mindset?
 - [201Class5 Reading Notes](class15.md)
 - [201Class5 Reading Notes](class15.md)
 
-Yo mom
+
 <sup>My website</sup> [GitHub](https://codinglean.github.io/reading-notes/)
 
 
