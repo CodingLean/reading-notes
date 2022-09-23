@@ -24,3 +24,7 @@ Tables are not automatically responsive: When you use proper layout containers (
 # Explain prototypes and inheritance via an analogy from your previous work experience.
 
 - prototypes are the simpler way of attaching and manipulating more things and inheritance 
+
+# Things I want to know more about 
+
+- I want to learn more about anything other than javascript. Joking,, but JS is such a needed headache im actually happy to get toknow more.
