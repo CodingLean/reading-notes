@@ -11,11 +11,12 @@
   
 
 # How will this topic continue to influence your long-term goals?
+
  - Troubleshooting will always be a part of this job/career so it is something we all need to work on continously so we understand faster and more efficient was to go about it.
 
 ## The JavaScript Debugger.
 
-#How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
+# How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
 
  - When you are writing your code and are not sure why it is not working this tool can help you understand what went wrong
 
@@ -23,6 +24,6 @@ Define what a breakpoint is.
 
 - It is a tool to put a pause in your Javascript.
 
-#What is the call stack? 
+# What is the call stack? 
 
 - The Call stack section shows you what code was executed to get to the current line. You can see that the code is in the function that initiates a mouse click, and that the code is currently paused on the breakpoint.
