@@ -13,7 +13,7 @@ How do you stay in the Growth Mindset?
 >- Take deep breaths
 
 
-## Table of Contents
+
 - [Class1 reading notes](class1.md)
 - [Class2 Reading Notes](class2.md)
 - [Class3 reading notes](class3.md)
@@ -26,6 +26,10 @@ How do you stay in the Growth Mindset?
 - [Class11 Reading Notes](class11.md)
 - [Class12 Reading Notes](class12.md)
 - [Class13 Reading Notes](class13.md)
+- [201Class14 Reading Notes](class14.md)
+- [201Class15 Reading Notes](class15.md)
+- [201Class16 Reading Notes](class16.md)
+- [201Class17 Reading Notes](class17.md)
 
 
 >- You can use multiple "#" to size your headings and fonts and also there are more ways that you can change font sizes.
@@ -34,7 +38,7 @@ How do you stay in the Growth Mindset?
 
 
 
-# Code Fellows 201 Reading Note
+# ## Table of Contents
 - [201Class1 reading notes](class1.md)
 - [201Class2 Reading Notes](class2.md)
 - [201Class3 reading notes](class3.md)
