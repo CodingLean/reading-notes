@@ -12,7 +12,7 @@ How do you stay in the Growth Mindset?
 >- Take a break when things seem hard.
 >- Take deep breaths
 
-
+# Table of Contents
 
 - [Class1 reading notes](class1.md)
 - [Class2 Reading Notes](class2.md)
@@ -38,7 +38,7 @@ How do you stay in the Growth Mindset?
 
 
 
-# ## Table of Contents
+# ## 201 Reading Notes
 - [201Class1 reading notes](class1.md)
 - [201Class2 Reading Notes](class2.md)
 - [201Class3 reading notes](class3.md)
