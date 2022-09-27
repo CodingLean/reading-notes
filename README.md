@@ -51,6 +51,7 @@ How do you stay in the Growth Mindset?
 - [201Class14 Reading Notes](class14.md)
 - [201Class15 Reading Notes](class15.md)
 - [201Class16 Reading Notes](class16.md)
+- [201Class17 Reading Notes](class17.md)
 
 
 <sup>My website</sup> [GitHub](https://codinglean.github.io/reading-notes/)
