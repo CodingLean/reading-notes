@@ -30,7 +30,7 @@ How do you stay in the Growth Mindset?
 - [201Class15 Reading Notes](class15.md)
 - [201Class16 Reading Notes](class16.md)
 - [201Class17 Reading Notes](class17.md)
-
+- [201Class18 Reading Notes](class18.md)
 
 >- You can use multiple "#" to size your headings and fonts and also there are more ways that you can change font sizes.
 >- Markdown paragraphs only need a blank line to space. best practice is not to use any tabs or spaces.
@@ -56,7 +56,7 @@ How do you stay in the Growth Mindset?
 - [201Class15 Reading Notes](class15.md)
 - [201Class16 Reading Notes](class16.md)
 - [201Class17 Reading Notes](class17.md)
-
+- [201Class18 Reading Notes](class18.md)
 
 <sup>My website</sup> [GitHub](https://codinglean.github.io/reading-notes/)
 
