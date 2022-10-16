@@ -3,17 +3,18 @@ This contains my notes for all my reading assignments
 
 Hi, My name is Isaiah, & I like to code until my hands develope Arthritis!
 
-![This is an image](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/256588915_110231701472309_4073553894103611591_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=i2-oE7fIWf8AX-GmjY3&_nc_ht=scontent-dfw5-1.xx&oh=00_AT-93w8U6IzK94MhLawKbqhZRkmecKKScBM_ba3C2v7wMA&oe=63120EFF)
-
-
+![This is an image](/assets/images/MrHandsome.jpeg)
 
 How do you stay in the Growth Mindset?
+>
 >- Think Positive thoughts to encourage positive outcomes.
 >- Take a break when things seem hard.
 >- Take deep breaths
 
 # Table of Contents
+
 ## Code 201 Intro to Software Development
+
 - [Class1 reading notes](class1.md)
 - [Class2 Reading Notes](class2.md)
 - [Class3 reading notes](class3.md)
@@ -38,7 +39,8 @@ How do you stay in the Growth Mindset?
 
 
 
-# ## Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development
+
 - [201Class1 reading notes](class1.md)
 - [201Class2 Reading Notes](class2.md)
 - [201Class3 reading notes](class3.md)
@@ -59,10 +61,6 @@ How do you stay in the Growth Mindset?
 - [201Class18 Reading Notes](class18.md)
 - [201Class18 Reading Notes](class19.md)
 
-
 ## Code 301 - Intermediate Software Development
 
 <sup>My website</sup> [GitHub](https://codinglean.github.io/reading-notes/)
-
-
-
