@@ -13,7 +13,7 @@ How do you stay in the Growth Mindset?
 >- Take deep breaths
 
 # Table of Contents
-
+## Code 201 Intro to Software Development
 - [Class1 reading notes](class1.md)
 - [Class2 Reading Notes](class2.md)
 - [Class3 reading notes](class3.md)
@@ -38,7 +38,7 @@ How do you stay in the Growth Mindset?
 
 
 
-# ## 201 Reading Notes
+# ## Code 201 - Foundations of Software Development
 - [201Class1 reading notes](class1.md)
 - [201Class2 Reading Notes](class2.md)
 - [201Class3 reading notes](class3.md)
@@ -59,6 +59,8 @@ How do you stay in the Growth Mindset?
 - [201Class18 Reading Notes](class18.md)
 - [201Class18 Reading Notes](class19.md)
 
+
+## Code 301 - Intermediate Software Development
 
 <sup>My website</sup> [GitHub](https://codinglean.github.io/reading-notes/)
 
