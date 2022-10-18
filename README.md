@@ -61,6 +61,10 @@ How do you stay in the Growth Mindset?
 - [201Class18 Reading Notes](class18.md)
 - [201Class18 Reading Notes](class19.md)
 
-## Code 301 - Intermediate Software Development
+# Code 301 - Intermediate Software Development
+
+## Table of Contents
+
+- [301Class1](ReadingNotes1.md)
 
 <sup>My website</sup> [GitHub](https://codinglean.github.io/reading-notes/)
