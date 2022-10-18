@@ -1,32 +1,36 @@
-## Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+## What is a “component”?
 
-- Based on the diagram, render happens first then componentDidMount.
+- A component is a portion of code that describes a well-defined function designed to be flexible and reusable and used as a part of a higher-level interface. They work in conjunction with other components to define a larger functionality.
 
-## What is the very first thing to happen in the lifecycle of React?
+## What are the characteristics of a component?
 
-- In the mounting phase, the first thing to happen in the lifecycle is constructor.
+- Components are:
 
-## Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates.
+reusable – can be reused in various tasks
+replaceable – can be replaced with similar components
+context-free – not limited to one environment or task
+extensible – can have extended features from other components for new behaviors
+encapsulated – does not expose internal process, data or state
+independent – little to no dependencies on other components
 
-- Constructor, render, componentDidMount, react updates, componenWillUnmount. 
+## What are the advantages of using component-based architecture?
 
-## What does componentDidMount do?
+- There are many advantages of using component-based architecture such as the ease of deployment, lowered costs, and reliability. This is because components allow us to organize code in an effective way, allowing us to reuse code or modify certain elements without affecting the system as a whole.
 
-- The componentDidMount() method allows us to execute the React code when the component is already placed in the DOM (Document Object Model). This method is called during the Mounting phase of the React Life-cycle i.e after the component is rendered. 
-<!-- medium.com -->
+## What is “props” short for?
 
-## What types of things can you pass in the props?
+- Props is short for properties.
 
-- You can pass an initial count to a counter component - props are like the arguments you pass to a function.
+## How are props used in React?
 
-## What is the big difference between props and state?
+- Props are assigned much like attributes and values with HTML tags. <ChildComponent text={"I'm the 1st child"} />
 
-- You pass props into a component, state is handled inside the component
+## When writing the function, props can be passed as function arguments and accessed with dot notation.
 
-## When do we re-render our application?
+ const ChildComponent = (props) => {
+   return <p>{props.text}</p>;
+ }
+## What is the flow of props?
 
-- When something changes in the props.
+- Props move in a uni-directional flow from parent to child.
 
-## What are some examples of things that we could store in state?
-
-- State lets you handle updating things within the component. Like updating a counter based on user actions.

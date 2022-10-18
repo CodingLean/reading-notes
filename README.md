@@ -65,6 +65,8 @@ How do you stay in the Growth Mindset?
 
 ## Table of Contents
 
-- [301Class1](ReadingNotes1.md)
+- [301Read1](ReadingNotes1.md)
+- [301Read2](ReadingNotes2.md)
+
 
 <sup>My website</sup> [GitHub](https://codinglean.github.io/reading-notes/)
